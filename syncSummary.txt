@@ -1,0 +1,45 @@
+VISUAL STUDIO CODE SETTINGS SYNC 
+Version: 2.8.2
+
+Upload Summary
+
+--------------------
+GITHUB TOKEN: 4e42eedb0f9c3091e11dd340ae96f890541adb1a
+GITHUB GIST: 27a22f231e74a91eef89ec1d31d9fe46
+GITHUB GIST TYPE: Secret
+
+--------------------
+
+If current theme / file icon extension is not installed. Restart will be Required to Apply Theme and File Icon.
+
+
+Files Upload.
+
+extensions.json
+locale.json
+settings.json
+vsicons.settings.json
+
+
+EXTENSIONS ADDED :
+
+Angular-BeastCode - Version :4.3.5
+Angular2 - Version :2.4.0
+auto-close-tag - Version :0.4.3
+auto-rename-tag - Version :0.0.14
+Bookmarks - Version :0.15.2
+bootstrap-3-snippets - Version :0.1.0
+code-runner - Version :0.6.33
+code-settings-sync - Version :2.8.2
+easy-less - Version :1.4.5
+html-snippets - Version :0.1.0
+Material-theme - Version :2.10.7
+Spell - Version :1.0.0
+stylelint - Version :0.28.0
+sublime-keybindings - Version :2.9.1
+tslint - Version :0.17.0
+view-in-browser - Version :0.0.5
+vscode-html-css - Version :0.1.7
+vscode-icons - Version :7.12.0
+vscode-JS-CSS-HTML-formatter - Version :0.2.3
+vscode-less - Version :0.6.3
