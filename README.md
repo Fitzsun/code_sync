@@ -1,0 +1,5 @@
+# code_sync
+vsc setting sync
+GITHUB TOKEN: a347ad3e3b457e5516444b37965ec42ea6a23bc8
+GITHUB GIST: c2886c50b3fefa610949414276dc0a02
+GITHUB GIST TYPE: Secret
